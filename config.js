@@ -52,11 +52,11 @@ global.available = true //status online (online)
 // Other
 global.mods = []
 global.prems = []
-global.nomorbot = '6283863727740'
+global.nomorbot = '94715598280'
 global.nameown = 'PutraModz'
-global.nomorown = '6283863727733'
-global.nomorown1 = '6282214729677'
-global.nomorown2 = '6282214729677'
+global.nomorown = '94741311260'
+global.nomorown1 = '94741311260'
+global.nomorown2 = '94741311260'
 global.nomorwa = '0'
 global.limitawal = {
 
